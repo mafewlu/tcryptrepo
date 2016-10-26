@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+firstfilefortranscrypt.txt  filter=crypt diff=crypt
